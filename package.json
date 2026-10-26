@@ -1,0 +1,12 @@
+{
+      "name": "lila-peerjs",
+        "version": "1.0.0",
+          "main": "server.js",
+            "scripts": { "start": "node server.js" },
+              "dependencies": {
+                  "express": "^4.19.2",
+                      "jsonwebtoken": "^9.0.2",
+                          "peer": "^1.0.2"
+                            }
+                            }
+}
